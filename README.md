@@ -25,5 +25,3 @@ This application used PHP/Oracle for back-end, and HTML, CSS, and JavaScript for
 ## ER-Diagram
 <img src="ERD.png" width="800">
 
-## Notes:
-All Commits made by "UBC Student" are actually made by Yingkai Zhao.
